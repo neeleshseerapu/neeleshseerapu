@@ -9,7 +9,7 @@ I’m a **first-year Computer Science major at UCLA** interested in building pra
 ### ⭐ Highlighted Work
 
 - **LA Blueprint — PATH (Resource management app | TypeScript/Next.js + Supabase)**
-  Shipped production features across tickets, inventory, and user/admin management: built reusable item search + URL-synced filtering, implemented outgoing/incoming ticket flows with shared `TicketDetails` + `UserCard` components, strengthened database authorization with row-level security + schema/model alignment, and delivered UI polish for ticket details and item cards (PRs #8, #14, #32, #39, #47, #56).
+  Shipped production features across tickets, inventory, and user/admin management: built reusable item search + URL-synced filtering, implemented outgoing/incoming ticket flows with shared `TicketDetails` + `UserCard` components, strengthened database authorization with row-level security + schema/model alignment, and delivered UI polish for ticket details and item cards.
 
 - **ZA Mega Predictor (Python / scikit-learn)**
   Built and evaluated ML pipelines to predict Pokémon likely to receive Mega Evolutions: created a feature-prep workflow over Pokédex data, trained a Logistic Regression classifier and an anomaly-style One-Class SVM model, and packaged the experiment as both a notebook and standalone scripts (with documented “Dragonite” prediction proof).
@@ -32,11 +32,11 @@ I’m a **first-year Computer Science major at UCLA** interested in building pra
 
 ### 🎯 Looking for
 
-I’m looking for opportunities to learn from strong engineering teams through **internships** and **mentorship**. If you’re working on something interesting (web, ML/NLP, devtools), I’d love [...] 
+I’m looking for opportunities to learn from strong engineering teams through **internships** and **mentorship**. If you’re working on something interesting (web, ML/NLP, devtools), I’d love to connect! 
 
 ---
 
 ### 🔗 Links
 
 - GitHub: https://github.com/neeleshseerapu
-- LinkedIn: [(click here)](https://www.linkedin.com/in/nseerapu/)
+- LinkedIn: https://www.linkedin.com/in/nseerapu/
