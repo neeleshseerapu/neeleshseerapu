@@ -1,6 +1,6 @@
 ## Hi, I'm Neelesh 👋
 
-I’m a **first-year Computer Science major at UCLA** interested in building practical software and learning fast. I’m currently exploring **full‑stack web development** and **applied ML/NLP**, and I’m planning to apply for **software engineering internships next year**.
+I’m a **first-year Computer Science major at UCLA** interested in building practical software and learning fast. I’m currently exploring **full‑stack web development** and **applied ML/NLP**.
 
 ![](https://komarev.com/ghpvc/?username=neeleshseerapu)
 
@@ -39,5 +39,4 @@ I’m looking for opportunities to learn from strong engineering teams through *
 ### 🔗 Links
 
 - GitHub: https://github.com/neeleshseerapu
-- LinkedIn: (add link)
-- Email: (add email)
+- LinkedIn: [(click here)](https://www.linkedin.com/in/nseerapu/)
