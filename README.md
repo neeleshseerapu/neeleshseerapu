@@ -22,7 +22,7 @@ I’m a **first-year Computer Science major at UCLA** interested in building pra
 
 ---
 
-### 🧰 Skills (Growing)
+### 🧰 Skills
 
 - **Languages:** TypeScript/JavaScript, Python, C++
 - **Web:** React, Vite
