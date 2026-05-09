@@ -9,16 +9,16 @@ I’m a **first-year Computer Science major at UCLA** interested in building pra
 ### ⭐ Highlighted Work
 
 - **LA Blueprint — PATH (Resource management app | TypeScript/Next.js + Supabase)**
-  Shipped production features across tickets, inventory, and user/admin management: built reusable item search + URL-synced filtering, implemented outgoing/incoming ticket flows with shared `TicketDetails` + `UserCard` components, strengthened database authorization with row-level security + schema/model alignment, and delivered UI polish for ticket details and item cards.
+  Shipped production features across tickets, inventory, and user/admin management: built reusable item search + URL-synced filtering, implemented outgoing/incoming ticket flows with shared `TicketDetail` logic, supported QR-based inventory and bulk actions, and improved maintainer docs.
 
 - **ZA Mega Predictor (Python / scikit-learn)**
-  Built and evaluated ML pipelines to predict Pokémon likely to receive Mega Evolutions: created a feature-prep workflow over Pokédex data, trained a Logistic Regression classifier and an anomaly-style One-Class SVM model, and packaged the experiment as both a notebook and standalone scripts (with documented “Dragonite” prediction proof).
+  Built and evaluated ML pipelines to predict Pokémon likely to receive Mega Evolutions: created a feature-prep workflow over Pokédex data, trained a Logistic Regression classifier and an anomaly-style detection baseline, and explored feature importances.
 
 - **ELL Bot (FastAPI + React | Docker + Azure)**
-  Built a chatbot platform to support refugees with a full-stack architecture: developed a FastAPI backend and React frontend, set up continuous deployment for the frontend from GitHub, and deployed the backend to Azure as a Dockerized service.
+  Built a chatbot platform to support refugees with a full-stack architecture: developed a FastAPI backend and React frontend, set up continuous deployment for the frontend from GitHub, and deployed to Azure via Docker with custom routing and auth.
 
-- **Doroboost (TypeScript/React/Vite | MediaPipe)**
-  Building a focus-session/pomodoro-style app with gaze tracking: wired a gaze-tracking provider with lazy camera acquisition, implemented a Pomodoro engine driven by a render-pacer loop, added notification permission flow, and organized state with a central store + test/lint scripts (Vitest + ESLint).
+- **Slocore (Rust/Tauri + React/TS)**
+  Created a cross-platform desktop app to download and pitch-shift music from online sources. Engineered a full audio pipeline integrating `yt-dlp`, `ffmpeg`, and custom presets, with modern Rust/Tauri desktop backend and a React/TypeScript UI. Emphasized usability and performance across macOS, Windows, and Linux. [GitHub ↗](https://github.com/neeleshseerapu/Slocore)
 
 ---
 
@@ -32,7 +32,7 @@ I’m a **first-year Computer Science major at UCLA** interested in building pra
 
 ### 🎯 Looking for
 
-I’m looking for opportunities to learn from strong engineering teams through **internships** and **mentorship**. If you’re working on something interesting (web, ML/NLP, devtools), I’d love to connect! 
+I’m looking for opportunities to learn from strong engineering teams through **internships** and **mentorship**. If you’re working on something interesting (web, ML/NLP, devtools), I’d love to chat!
 
 ---
 
