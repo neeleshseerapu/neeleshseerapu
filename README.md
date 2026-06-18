@@ -12,7 +12,7 @@ I’m a **first-year Computer Science major at UCLA** interested in building pra
   Shipped production features across tickets, inventory, and user/admin management: built reusable item search with URL-synced filtering, implemented outgoing/incoming ticket workflows with shared `TicketDetail` interfaces, and improved role-aware admin tooling to streamline day-to-day operations for community partners.
 
 - **Bloom (React + TypeScript | Vite, Zustand, ReactFlow)**
-  Built a client-side “living journal” that turns Markdown headings into interactive mind maps in real time: implemented bi-directional Page↔Grove sync, draggable node layouts (Outline/Tree/Radial) with undo/redo, and durable multi-document persistence in IndexedDB with import/export workflows.
+  Built a client-side “living journal” that turns Markdown headings into interactive mind maps in real time: implemented bi-directional Page↔Grove sync, draggable node layouts (Outline/Tree/Radial), and AI-powered writing suggestions via user-provided API keys (Anthropic/OpenAI/Gemini).
 
 - **ZA Mega Predictor (Python / scikit-learn)**
   Built and evaluated ML pipelines to predict Pokémon likely to receive Mega Evolutions: developed a reproducible feature-preparation workflow over Pokédex data, trained a Logistic Regression baseline and an anomaly-style detector, and compared performance with clear evaluation metrics and error analysis.
