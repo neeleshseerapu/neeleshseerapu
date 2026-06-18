@@ -9,16 +9,16 @@ I’m a **first-year Computer Science major at UCLA** interested in building pra
 ### ⭐ Highlighted Work
 
 - **LA Blueprint — PATH (Resource management app | TypeScript/Next.js + Supabase)**
-  Shipped production features across tickets, inventory, and user/admin management: built reusable item search + URL-synced filtering, implemented outgoing/incoming ticket flows with shared `TicketDet[...]
+  Shipped production features across tickets, inventory, and user/admin management: built reusable item search with URL-synced filtering, implemented outgoing/incoming ticket workflows with shared `TicketDetail` interfaces, and improved role-aware admin tooling to streamline day-to-day operations for community partners.
 
 - **ZA Mega Predictor (Python / scikit-learn)**
-  Built and evaluated ML pipelines to predict Pokémon likely to receive Mega Evolutions: created a feature-prep workflow over Pokédex data, trained a Logistic Regression classifier and an anomaly-st[...]
+  Built and evaluated ML pipelines to predict Pokémon likely to receive Mega Evolutions: developed a reproducible feature-preparation workflow over Pokédex data, trained a Logistic Regression baseline and an anomaly-style detector, and compared performance with clear evaluation metrics and error analysis.
 
 - **ELL Bot (FastAPI + React | Docker + Azure)**
-  Built a chatbot platform to support refugees with a full-stack architecture: developed a FastAPI backend and React frontend, set up continuous deployment for the frontend from GitHub, and deployed t[...]
+  Built a chatbot platform to support refugees with a full-stack architecture: developed a FastAPI backend and React frontend, set up CI/CD for frontend deployment from GitHub, containerized backend services with Docker, and deployed to Azure with environment-based configuration and reliability-focused iteration.
 
-- **Slocore (Rust/Tauri + React/TS)**
-  Created a cross-platform desktop app to download and pitch-shift music from online sources. Leveraged Claude code agents and specialized skills to design, iterate, and debug the app efficiently and correctly—engineering an advanced audio pipeline that integrates `yt-dlp`, `ffmpeg`, and custom presets with modern Rust/Tauri architecture and a React/TypeScript frontend.
+- **Bloom (React + TypeScript | Vite, Zustand, ReactFlow)**
+  Built a client-side “living journal” that turns Markdown headings into interactive mind maps in real time: implemented bi-directional Page↔Grove sync, draggable node layouts (Outline/Tree/Radial) with undo/redo, and durable multi-document persistence in IndexedDB with import/export workflows.
 
 ---
 
@@ -32,7 +32,7 @@ I’m a **first-year Computer Science major at UCLA** interested in building pra
 
 ### 🎯 Looking for
 
-I’m looking for opportunities to learn from strong engineering teams through **internships** and **mentorship**. If you’re working on something interesting (web, ML/NLP, devtools), I’d love to c[...]
+I’m looking for opportunities to learn from strong engineering teams through **internships** and **mentorship**. If you’re building something interesting in web, ML/NLP, or developer tooling, I’d love to connect and contribute where I can add value.
 
 ---
 
@@ -40,4 +40,3 @@ I’m looking for opportunities to learn from strong engineering teams through *
 
 - GitHub: https://github.com/neeleshseerapu
 - LinkedIn: https://www.linkedin.com/in/nseerapu/
-
