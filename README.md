@@ -1,6 +1,6 @@
 ## Hi, I'm Neelesh 👋
 
-I’m a **first-year Computer Science major at UCLA** interested in building practical software and learning fast. I’m currently exploring **full‑stack web development** and **applied ML/NLP**.
+I'm a **first-year Computer Science major at UCLA** interested in building practical software and learning fast. I'm currently exploring **full-stack development**, **cyber security**, and **Agentic AI**.
 
 ![](https://komarev.com/ghpvc/?username=neeleshseerapu)
 
@@ -8,17 +8,14 @@ I’m a **first-year Computer Science major at UCLA** interested in building pra
 
 ### ⭐ Highlighted Work
 
-- **LA Blueprint — PATH (Resource management app | TypeScript/Next.js + Supabase)**
-  Shipped production features across tickets, inventory, and user/admin management: built reusable item search with URL-synced filtering, implemented outgoing/incoming ticket workflows with shared components, and helped support admin-facing operations.
+- **Rehorse (Python | Claude Code Plugin)**
+  Auto mode for Claude Code that you can walk away from. Type one command, leave, come back to a report. Every task rehearses on its own git worktree, must go red-then-green on tests, and is checked by an independent verifier. Built with Python hooks that enforce isolation, test locking, and verification guarantees.
 
 - **Bloom (React + TypeScript | Vite, Zustand, ReactFlow)**
-  Built a client-side “living journal” that turns Markdown headings into interactive mind maps in real time: implemented bi-directional Page↔Grove sync, draggable node layouts, and structured views for outlining and navigation.
+  Built a client-side "living journal" that turns Markdown headings into interactive mind maps in real time: implemented bi-directional Page↔Grove sync, draggable node layouts, and structured visualization of notes.
 
-- **SAF3AI (Python / Transformers / scikit-learn)**
-  Fine-tuned encoder/LLM-based classifiers for agentic AI governance and prompt-injection detection: trained DeBERTa and DistilBERT variants on the public `deepset/prompt-injections` dataset, added custom safe/injection examples, evaluated precision/recall/F1, switched to a multilingual DistilBERT variant after finding German bypass cases, and tuned the decision threshold to improve recall without hurting precision.
-
-- **ELL Bot (FastAPI + React | Docker + Azure)**
-  Built a chatbot platform to support refugees with a full-stack architecture: developed a FastAPI backend and React frontend, set up CI/CD for frontend deployment from GitHub, and containerized the backend for deployment.
+- **LA Blueprint — PATH (Resource management app | TypeScript/Next.js + Supabase)**
+  Shipped production features across tickets, inventory, and user/admin management: built reusable item search with URL-synced filtering, implemented outgoing/incoming ticket workflows with shared components.
 
 ---
 
@@ -33,7 +30,7 @@ I’m a **first-year Computer Science major at UCLA** interested in building pra
 
 ### 🎯 Looking for
 
-I’m looking for opportunities to learn from strong engineering teams through **internships** and **mentorship**. If you’re building something interesting in web, ML/NLP, or developer tooling, I’d love to connect.
+I'm looking for opportunities to learn from strong engineering teams through **internships** and **mentorship**. If you're building something interesting in full-stack development, cyber security, agentic AI, or developer tooling, I'd love to chat.
 
 ---
 
