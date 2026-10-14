@@ -1,6 +1,6 @@
 ## Hi, I'm Neelesh 👋
 
-I'm a **first-year Computer Science major at UCLA** interested in building practical software and learning fast. I'm currently exploring **full-stack development**, **cyber security**, and **Agentic AI**.
+I'm a **third-year Computer Science major at UCLA** interested in building practical software and learning fast. I'm currently exploring **full-stack development**, **cyber security**, and **Agentic AI**.
 
 ![](https://komarev.com/ghpvc/?username=neeleshseerapu)
 
